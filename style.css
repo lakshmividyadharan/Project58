@@ -48,3 +48,11 @@ p{
 .list:hover{
     background-color: aqua;
 }
+#bt1{
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: red;
+}
+a{
+    text-decoration: none;
+}
